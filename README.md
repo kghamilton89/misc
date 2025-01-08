@@ -1,6 +1,17 @@
 # /mɪsk/
 
-> /mɪsk/ is currently in development, the target release date is May 2025
+## Roadmap
+
+/mɪsk/ is currently in development, the target release date is May 2025.
+
+| Milestone       | Target       | Status       |
+|-----------------|----------------|----------------|
+| Registration and Authentication  | January 2025  | In Progress |
+| Application UI and Frontend  | January 2025  |  |
+| Application Backend  | February 2025 |  |
+| Frontend / Backend Stitching  | February 2025 |  |
+| DevOps and CI/CD  | March 2025 |  |
+| User Control and Configuration  | April 2025 |  |
 
 ## Project Description
 
