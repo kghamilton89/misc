@@ -6,9 +6,9 @@
 
 | Milestone       | Target       | Status       |
 |-----------------|----------------|----------------|
-| Registration and Authentication  | January 2025  | In Progress |
-| Application UI and Frontend  | January 2025  |  |
-| Application Backend  | February 2025 |  |
+| Application UI and Frontend  | January 2025  | In Progress |
+| Application Backend  | January 2025 |  |
+| Registration and Authentication  | February 2025  | |
 | Frontend / Backend Stitching  | February 2025 |  |
 | DevOps and CI/CD  | March 2025 |  |
 | User Control and Configuration  | April 2025 |  |
