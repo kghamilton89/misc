@@ -1,18 +1,5 @@
 # /mɪsk/
 
-## Roadmap
-
-/mɪsk/ is currently in development, the target release date is May 2025.
-
-| Milestone       | Target       | Status       |
-|-----------------|----------------|----------------|
-| Application UI and Frontend  | January 2025  | In Progress |
-| Application Backend  | January 2025 |  |
-| Registration and Authentication  | February 2025  | |
-| Frontend / Backend Stitching  | February 2025 |  |
-| DevOps and CI/CD  | March 2025 |  |
-| User Control and Configuration  | April 2025 |  |
-
 ## Project Description
 
 /mɪsk/ is a new kind of social media that focuses on user control and user privacy as first class citizens rather than empty platitudes.
